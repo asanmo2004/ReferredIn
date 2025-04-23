@@ -89,6 +89,16 @@ npm start
 - **Testing:** Postman
 
 ---
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](./screenshots/Login.png)
+
+### 📨 Registration Page
+![Referrals](./screenshots/Registration.png)
+
+### 📊 Status Tracker
+![Status](./screenshots/Status.png)
 
 ## 📝 Author
 
