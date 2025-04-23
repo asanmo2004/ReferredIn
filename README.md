@@ -39,17 +39,20 @@ USE {db-name};
 
 ### 🧪 Run the Project
 
-#### Option 1: From IntelliJ IDEA
+#### Backend
 
-- Open the project '/rms'
-- Right-click on `ReferredInApplication.java`
-- Click `Run`
+- Open the project '/rms' in cmd
 
-#### Option 2: Using Maven (Command Line)
-
-```bash
+mvn clean install
 mvn spring-boot:run
-```
+
+
+#### Frontend
+- Open the project '/frontend' in cmd
+
+npm install
+npm start
+
 
 
 ## 🧭 Features
