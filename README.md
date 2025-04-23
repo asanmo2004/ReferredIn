@@ -96,7 +96,10 @@ npm start
 
 ### 📨 Registration Page
 ![Referrals](./screenshots/Registration.png)
-
+### 📊 Seek Referrals
+![Status](./screenshots/Seek.png)
+### 📊 Manage Incoming Requests
+![Status](./screenshots/Manage.png)
 ### 📊 Status Tracker
 ![Status](./screenshots/Status.png)
 
